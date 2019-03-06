@@ -3,6 +3,7 @@ html,
 body {
 	overflow: hidden;
 	height: 100%;
+	background-image:url(../images/ocean.jpg);
 }
 
 .container {
@@ -108,7 +109,7 @@ body {
 }
 
 .button--close {
-	font-size: 1.55em;
+	font-size: 5em;
 	position: absolute;
 	top: 30px;
 	right: 30px;
